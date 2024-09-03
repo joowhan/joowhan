@@ -4,16 +4,8 @@
 </div>  
   
 
-### <div align="center">I'm Joowhan, software developer 👨‍💻 since 2017 🚀</div>  
+### <div align="center">I'm software developer 👨‍💻 since 2017 🚀</div>  
   
-
-- 🔭 I’m currently working on kopo  
-  
-
-- 🌱 I’m currently learning Web frontend  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
